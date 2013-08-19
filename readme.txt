@@ -2,8 +2,7 @@
 SIAP Skelleton (adaptasi dari Yoko)
 
 --------------------------------
-- Added Google+ and target="_blank" to the Yoko Social Links widget.
-- Added theme translations for Spanish (Spain), Catalan, Portuguese (Brazil), Dutch, Russian and Ukrainian.
+- Added Google+ and target="_blank" to the Social Links widget.
 - new script for smooth scroll to top in smoothscroll.js.
 - bugfix to display comments on multiple pages with comments navigation.
 - Bugfix to display the site description h2 correctly on iPads in portrait mode.
