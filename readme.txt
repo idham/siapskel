@@ -1,4 +1,5 @@
 ------------------------------------------------------------------------------------------------------------
+SIAP Skelleton (adaptasi dari Yoko)
 
 --------------------------------
 - Added Google+ and target="_blank" to the Yoko Social Links widget.
