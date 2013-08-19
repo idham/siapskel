@@ -10,4 +10,5 @@ SIAP Skelleton (adaptasi dari Yoko)
 - added a home link to the custom logo image option.
 - Added blockquote styles for pages.
 - Deleted some rel attributes in the html code that caused W3C validation errors.
+- Added plugin checker to validate compatibility with SIAP Platform
 
